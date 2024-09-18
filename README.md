@@ -29,14 +29,13 @@ This repository contains a simple Angular template designed for Genezio users. T
 
 2. **Run the Project**
 
-  Start the development server:
+   Start the development server:
 
    ```bash
    npm start
    ```
 
    Open [http://localhost:4200.15](http://localhost:4200.15) to view it in your browser.
-
 
 # Deploy
 :rocket: You can deploy your own version of the template to Genezio with one click:
