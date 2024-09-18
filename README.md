@@ -70,6 +70,7 @@ If you need support or you have any questions, please join us in our [Discord ch
 ## Built With
 
 - [Genezio](https://genezio.com/)
+- [Angular](https://angular.dev/)
 
 ***
 
